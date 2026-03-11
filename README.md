@@ -1,8 +1,8 @@
 <div id="header" align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9nOTlkYmc2dDh4ZGticmhhaTY5endyc3F4OWNocTI2eDJoejZrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ53VLbM1eEo4s1toi/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NnNmcyaDRrNGM5Nnk1aHNkN3Q4cndpMnF5NXhtZTY1bDRrdjY1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OQGC82IGNEd9e/giphy.gif" width="100"/>
 </div>
 
-### Hi there 👋
+### Hello
 
 I'm Amith Singh from London, United Kingdom, and I am a Senior Data Engineer. I really enjoy building data pipelines and designing the infrastructure to support them.
 
